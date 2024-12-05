@@ -1,4 +1,4 @@
-package hello.servlet.basic;
+package hello.mvcPractice1.basic;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

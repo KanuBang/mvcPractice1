@@ -1,4 +1,4 @@
-package hello.servlet.basic;
+package hello.mvcPractice1.basic;
 
 import lombok.Getter;
 import lombok.Setter;

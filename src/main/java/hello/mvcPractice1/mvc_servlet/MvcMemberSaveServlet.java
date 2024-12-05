@@ -1,8 +1,8 @@
-package hello.servlet.mvc_servlet;
+package hello.mvcPractice1.mvc_servlet;
 
-import hello.servlet.basic.HelloServlet;
-import hello.servlet.domain.member.Member;
-import hello.servlet.domain.member.MemberRepository;
+import hello.mvcPractice1.basic.HelloServlet;
+import hello.mvcPractice1.domain.member.Member;
+import hello.mvcPractice1.domain.member.MemberRepository;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

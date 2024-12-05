@@ -1,6 +1,4 @@
-package hello.servlet.domain.member;
-
-import lombok.Getter;
+package hello.mvcPractice1.domain.member;
 
 import java.util.ArrayList;
 import java.util.HashMap;

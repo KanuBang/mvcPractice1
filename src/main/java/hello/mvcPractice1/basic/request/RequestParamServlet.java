@@ -1,4 +1,4 @@
-package hello.servlet.basic.request;
+package hello.mvcPractice1.basic.request;
 
 
 import jakarta.servlet.ServletException;
