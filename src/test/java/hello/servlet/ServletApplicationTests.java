@@ -1,10 +1,10 @@
-package hello.servelt;
+package hello.servlet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServeltApplicationTests {
+class ServletApplicationTests {
 
 	@Test
 	void contextLoads() {
